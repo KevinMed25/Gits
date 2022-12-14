@@ -70,5 +70,5 @@
 
 > ### Final Increment:
 
-> - [Slide]( "Clíck Aquí")
-> - [Slide]("Clíck Aquí")
+> - [Slide](./Final%20Increment/Artifacts/Presentations/Final-Increment.pdf "Click Aquí")
+> - [Presentation]()
